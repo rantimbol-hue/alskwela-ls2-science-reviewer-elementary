@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Elementary ALS A&E Reviewer LS 2 - Science",
+  "short_name": "Elem A&E LS2 Science",
+  "description": "ALSKwela A&E 2027 Elementary LS2 Science reviewer: 90 questions, balanced 30-question trials, encouraging Taglish explanations, offline use and PDF response report.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#12243a",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
