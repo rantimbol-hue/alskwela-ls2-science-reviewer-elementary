@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "app_id": "Elementary_LS2_Science",
+  "bank_version": "1.0.0",
+  "trial_size": 30,
+  "foundation_count": 90,
+  "foundation_sha256": "5ff8562d8b1db71b5f6228d63690d3007deccac798a7bb26417c2e6ba836f81e",
+  "foundation_sets": [
+    "A",
+    "B",
+    "C"
+  ],
+  "curriculum_reference": "DepEd 2026 Revised ALS CG",
+  "new_guideline_sources": [],
+  "sets": [],
+  "description": "Append only new sets here. Existing foundation A-C is locked."
+}
